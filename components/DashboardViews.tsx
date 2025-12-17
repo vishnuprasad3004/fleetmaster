@@ -1,0 +1,1 @@
+// This file is deprecated. Please use the modular components in specific directories (vehicles/, drivers/, bookings/, dashboard/).
