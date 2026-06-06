@@ -418,7 +418,7 @@ This project demonstrates:
 
 ## 📞 Support & Contact
 
-- 📧 Email: [contact@fleetmaster.dev]
+- 📧 Email: njvishnun@gmail.com
 - 🐛 Issues: [GitHub Issues](https://github.com/vishnuprasad3004/fleetmaster/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/vishnuprasad3004/fleetmaster/discussions)
 
